@@ -397,7 +397,7 @@ dependencies = [
  "gl",
  "glutin",
  "glutin-winit",
- "raw-window-handle 0.6.0",
+ "raw-window-handle 0.5.2",
  "skia-safe",
  "winit",
 ]
